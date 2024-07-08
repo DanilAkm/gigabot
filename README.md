@@ -1,0 +1,1 @@
+# checking out Gigachat API and Fusion Brain API
